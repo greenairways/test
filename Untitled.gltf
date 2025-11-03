@@ -649,7 +649,7 @@
 		{
 			"mimeType":"image/jpeg",
 			"name":"Image_33",
-			"uri":"Image_33.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@main/Image_33.jpg"
 		}
 	],
 	"accessors":[
