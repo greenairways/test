@@ -609,47 +609,47 @@
 		{
 			"mimeType":"image/jpeg",
 			"name":"Image_15",
-			"uri":"Image_15.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_15.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Image_14",
-			"uri":"Image_14.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_14.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Image_13",
-			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@main/Image_13.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_13.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Image_18",
-			"uri":"Image_18.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_18.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Image_17",
-			"uri":"Image_17.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_17.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Image_16",
-			"uri":"Image_16.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_16.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Image_35",
-			"uri":"Image_35.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_35.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Image_34",
-			"uri":"Image_34.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_34.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Image_33",
-			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@main/Image_33.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_33.jpg"
 		}
 	],
 	"accessors":[
