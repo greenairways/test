@@ -213,42 +213,40 @@
 			]
 		}
 	],
-	"materials":[
+	"materials": [
 	    {
-	        "name":"Plaster002",
-	        "normalTexture":{"index":0},
-	        "occlusionTexture":{"index":1},
-	        "pbrMetallicRoughness":{
-	            "baseColorTexture":{"index":2},
-	            "metallicFactor":1.0,
-	            "roughnessFactor":0.0,
-	            "metallicRoughnessTexture":{"index":1}
+	        "name": "Plaster002",
+	        "pbrMetallicRoughness": {
+	            "baseColorTexture": { "index": 2 },
+	            "metallicFactor": 0.0,
+	            "roughnessFactor": 0.8
 	        },
-	        "emissiveFactor":[1,1,1]
+	        "normalTexture": { "index": 0 },
+	        "occlusionTexture": { "index": 1 },
+	        "emissiveFactor": [0, 0, 0]
 	    },
 	    {
-	        "name":"RoofingTiles010",
-	        "normalTexture":{"index":3},
-	        "occlusionTexture":{"index":4},
-	        "pbrMetallicRoughness":{
-	            "baseColorTexture":{"index":5},
-	            "metallicFactor":1.0,
-	            "roughnessFactor":0.0,
-	            "metallicRoughnessTexture":{"index":4}
+	        "name": "RoofingTiles010",
+	        "pbrMetallicRoughness": {
+	            "baseColorTexture": { "index": 5 },
+	            "metallicFactor": 0.0,
+	            "roughnessFactor": 0.6
 	        },
-	        "emissiveFactor":[1,1,1]
+	        "normalTexture": { "index": 3 },
+	        "occlusionTexture": { "index": 4 },
+	        "emissiveFactor": [0, 0, 0]
 	    },
 	    {
-	        "name":"GLASS_WALL",
-	        "normalTexture":{"index":6},
-	        "occlusionTexture":{"index":7},
-	        "pbrMetallicRoughness":{
-	            "baseColorTexture":{"index":8},
-	            "metallicFactor":1.0,
-	            "roughnessFactor":0.0,
-	            "metallicRoughnessTexture":{"index":7}
+	        "name": "GLASS_WALL",
+	        "pbrMetallicRoughness": {
+	            "baseColorTexture": { "index": 8 },
+	            "metallicFactor": 0.0,
+	            "roughnessFactor": 0.1,
+	            "alphaMode": "BLEND"
 	        },
-	        "emissiveFactor":[1,1,1]
+	        "normalTexture": { "index": 6 },
+	        "occlusionTexture": { "index": 7 },
+	        "emissiveFactor": [0, 0, 0]
 	    }
 	],
 	"meshes":[
