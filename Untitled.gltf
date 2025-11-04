@@ -213,62 +213,62 @@
 			]
 		}
 	],
-"materials":[
-    {
-        "name":"Plaster002",
-        "normalTexture":{
-            "index":0
-        },
-        "occlusionTexture":{
-            "index":1
-        },
-        "pbrMetallicRoughness":{
-            "baseColorTexture":{
-                "index":2
-            },
-            "metallicRoughnessTexture":{
-                "index":1
-            }
-        },
-        "emissiveFactor":[0.5, 0.5, 0.5]
-    },
-    {
-        "name":"RoofingTiles010",
-        "normalTexture":{
-            "index":3
-        },
-        "occlusionTexture":{
-            "index":4
-        },
-        "pbrMetallicRoughness":{
-            "baseColorTexture":{
-                "index":5
-            },
-            "metallicRoughnessTexture":{
-                "index":4
-            }
-        },
-        "emissiveFactor":[0.5, 0.5, 0.5]
-    },
-    {
-        "name":"GLASS_WALL",
-        "normalTexture":{
-            "index":6
-        },
-        "occlusionTexture":{
-            "index":7
-        },
-        "pbrMetallicRoughness":{
-            "baseColorTexture":{
-                "index":8
-            },
-            "metallicRoughnessTexture":{
-                "index":7
-            }
-        },
-        "emissiveFactor":[0.5, 0.5, 0.5]
-    }
-],
+	"materials":[
+	    {
+	        "name":"Plaster002",
+	        "normalTexture":{
+	            "index":0
+	        },
+	        "occlusionTexture":{
+	            "index":1
+	        },
+	        "pbrMetallicRoughness":{
+	            "baseColorTexture":{
+	                "index":2
+	            },
+	            "metallicRoughnessTexture":{
+	                "index":1
+	            }
+	        },
+	        "emissiveFactor":[5, 5, 5]
+	    },
+	    {
+	        "name":"RoofingTiles010",
+	        "normalTexture":{
+	            "index":3
+	        },
+	        "occlusionTexture":{
+	            "index":4
+	        },
+	        "pbrMetallicRoughness":{
+	            "baseColorTexture":{
+	                "index":5
+	            },
+	            "metallicRoughnessTexture":{
+	                "index":4
+	            }
+	        },
+	        "emissiveFactor":[5, 5, 5]
+	    },
+	    {
+	        "name":"GLASS_WALL",
+	        "normalTexture":{
+	            "index":6
+	        },
+	        "occlusionTexture":{
+	            "index":7
+	        },
+	        "pbrMetallicRoughness":{
+	            "baseColorTexture":{
+	                "index":8
+	            },
+	            "metallicRoughnessTexture":{
+	                "index":7
+	            }
+	        },
+	        "emissiveFactor":[5, 5, 5]
+	    }
+	],
 	"meshes":[
 		{
 			"name":"Mesh_15",
