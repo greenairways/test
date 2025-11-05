@@ -231,9 +231,9 @@
         }
       },
       "emissiveFactor": [
-        0.005,
-        0.0045,
-        0.003
+        0.01,
+        0.009,
+        0.006
       ]
     },
     {
@@ -253,9 +253,9 @@
         }
       },
       "emissiveFactor": [
-        0.005,
+        0.01,
         0.0045,
-        0.003
+        0.006
       ]
     },
     {
@@ -275,9 +275,9 @@
         }
       },
       "emissiveFactor": [
-        0.005,
-        0.0045,
-        0.003
+        0.01,
+        0.009,
+        0.006
       ]
     }
   ],
@@ -634,7 +634,7 @@
     {
       "mimeType": "image/jpeg",
       "name": "Image_13",
-      "uri": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_13.jpg"
+      "uri": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_17.jpg"
     },
     {
       "mimeType": "image/jpeg",
@@ -644,7 +644,7 @@
     {
       "mimeType": "image/jpeg",
       "name": "Image_17",
-      "uri": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_17.jpg"
+      "uri": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_13.jpg"
     },
     {
       "mimeType": "image/jpeg",
@@ -664,7 +664,7 @@
     {
       "mimeType": "image/jpeg",
       "name": "Image_33",
-      "uri": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_33.jpg"
+      "uri": "https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_36.jpg"
     }
   ],
   "accessors": [
