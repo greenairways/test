@@ -676,27 +676,27 @@
 		{
 			"mimeType":"image/jpeg",
 			"name":"Plaster002_Color",
-			"uri":"Plaster002_Color.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Plaster002_Color.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"RoofingTiles010_Color",
-			"uri":"RoofingTiles010_Color.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/RoofingTiles010_Color.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Glass_Color",
-			"uri":"Glass_Color.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Glass_Color.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Plastic010_Color",
-			"uri":"Plastic010_Color.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Plastic010_Color.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Concrete034_Color",
-			"uri":"Concrete034_Color.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Concrete034_Color.jpg"
 		}
 	],
 	"accessors":[
