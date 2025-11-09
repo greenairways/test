@@ -80,8 +80,20 @@
 				},
 				"metallicRoughnessTexture":{
 					"index":1
-				}
-			}
+		    },
+		    "baseColorFactor": [
+		      1.0,
+		      1.0,
+		      1.0,
+		      1.0
+		    ],
+		    "roughnessFactor": 0.8
+		  },
+		  "emissiveFactor": [
+		    0.01,
+		    0.009,
+		    0.006
+		  ]
 		},
 		{
 			"name":"SOLAR_PANEL",
@@ -97,8 +109,20 @@
 				},
 				"metallicRoughnessTexture":{
 					"index":4
-				}
-			}
+		    },
+		    "baseColorFactor": [
+		      1.0,
+		      1.0,
+		      1.0,
+		      1.0
+		    ],
+		    "roughnessFactor": 0.8
+		  },
+		  "emissiveFactor": [
+		    0.01,
+		    0.009,
+		    0.006
+		  ]
 		}
 	],
 	"meshes":[
@@ -197,31 +221,31 @@
 		{
 			"mimeType":"image/jpeg",
 			"name":"Image_2",
-			"uri":"Image_2.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_2.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Image_1",
-			"uri":"Image_1.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_1.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"Image_0",
-			"uri":"Image_0.png"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_0.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Image_18",
-			"uri":"Image_18.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_18.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Image_17",
-			"uri":"Image_17.jpg"
+			"uri":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_17.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
-			"name":"Image_16",
+			"name":"https://cdn.jsdelivr.net/gh/greenairways/test@latest/Image_16",
 			"uri":"Image_16.jpg"
 		}
 	],
