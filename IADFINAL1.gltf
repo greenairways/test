@@ -344,7 +344,7 @@
             "COLOR_0": 13
           },
           "indices": 14,
-          "material": 1
+          "material": 2
         }
       ]
     },
@@ -478,7 +478,7 @@
             "COLOR_0": 57
           },
           "indices": 58,
-          "material": 2
+          "material": 0
         }
       ]
     },
