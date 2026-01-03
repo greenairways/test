@@ -1,0 +1,43 @@
+    "3036": {
+            "index": [
+                1,
+                3,
+                5
+            ],
+            "parts": [
+                0,
+                0,
+                0
+            ],
+            "mp": [
+                {
+                    "modelIndex": 0,
+                    "textureIndex": 0
+                },
+                {
+                    "modelIndex": 2,
+                    "textureIndex": 1
+                },
+                {
+                    "modelIndex": 4,
+                    "textureIndex": 2
+                }
+            ],
+            "liveries": [
+                {
+                    "name": "Porter",
+                    "texture": [
+                        "https://i.ibb.co/KJq8M2L/porterfueslage.png",
+                        "https://i.ibb.co/TMvcbSBb/portertail.png",
+                        "https://i.ibb.co/bMLyKfsq/porterengine.png"
+                    ],
+                    "credits": "thegreen121"
+                }
+            ],
+            "labels": [
+                "Fuselage texture",
+                "Wing texture",
+                "Engine texture"
+            ],
+            "name": "Embraer E195-E2"
+        },
